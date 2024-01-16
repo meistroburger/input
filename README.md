@@ -1,4 +1,4 @@
-# qb-input (NoPixel 4.0 Inspired)
+# qb-input (Inspired)
 
 https://discord.gg/8kCnc5r8bf
 
